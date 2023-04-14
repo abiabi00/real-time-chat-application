@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42b292d9-9f66-4efd-9497-dc717275f4ae" name="Changes" comment="" />
+    <list default="true" id="734d8f7c-8e37-4168-abc8-cb110887c63f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +19,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NionwA9IFyIAByx95VKMYKsppL" />
+  <component name="ProjectId" id="2OGpFBHTJ9Fs4wIo8jX1CoEfZx4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,12 +29,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/Chat-Connect-App-master&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="chatApp.app.main" />
+      <module name="FlashChat.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -95,11 +96,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42b292d9-9f66-4efd-9497-dc717275f4ae" name="Changes" comment="" />
-      <created>1680156436306</created>
+      <changelist id="734d8f7c-8e37-4168-abc8-cb110887c63f" name="Changes" comment="" />
+      <created>1681196673187</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680156436306</updated>
+      <updated>1681196673187</updated>
     </task>
     <servers />
   </component>
